@@ -1,4 +1,3 @@
-USE DATABASE ${database};
 USE SCHEMA ${schema1};
 CREATE TABLE table2(
     id INT PRIMARY KEY,
